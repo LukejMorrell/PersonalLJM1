@@ -1,0 +1,50 @@
+
+h1 {
+    text-align: center;
+}
+
+
+h2 {
+    color:blue;
+}
+
+h2 {
+    text-align: center;
+}
+
+table {
+    text-align: center;
+}
+
+table {
+    text-decoration: dashed;
+}
+
+th {
+    color: blueviolet;
+}
+img {
+    text-align: center;
+}
+
+h3 {
+    color: orange;
+}
+
+h3 {
+    text-align: center;
+}
+
+
+
+p {
+    text-align: center;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
